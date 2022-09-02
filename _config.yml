@@ -155,7 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-theme: '' 
+theme: minima
 highlighter: rouge
 lsi: false
 source: shaohuais.github.io
