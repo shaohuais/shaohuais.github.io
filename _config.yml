@@ -83,8 +83,8 @@ author:
   name             : "Shaohuai Shi"
   avatar           : "profile.png"
   bio              : "Assistant Professor"
-  location         : "Office: Building L"
-  employer         : "School of Computer Science and Technology, HITSZ"
+  location         : 
+  employer         : "School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen"
   pubmed           :
   googlescholar    : "https://scholar.google.com.hk/citations?user=Wr4B6fQAAAAJ&hl=en"
   email            : "shaohuais@hit.edu.cn"
