@@ -13,7 +13,7 @@ name                     : &name "Shaohuai Shi"
 description              : &description "personal description"
 url                      : shaohuais.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shyhuai/shaohuais.github.io"
+repository               : "shaohuais/shaohuais.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shaohuai Shi"
   avatar           : "profile.png"
-  bio              : "Research Assistant Professor"
-  location         : "Office: Room 2538, Academic Building"
-  employer         : "Department of Computer Science & Engineering, HKUST"
+  bio              : "Assistant Professor"
+  location         : "Office: Building L"
+  employer         : "School of Computer Science and Technology, HITSZ"
   pubmed           :
   googlescholar    : "https://scholar.google.com.hk/citations?user=Wr4B6fQAAAAJ&hl=en"
-  email            : "shaohuais@cse.ust.hk"
+  email            : "shaohuais@hit.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
