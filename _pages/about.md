@@ -39,8 +39,20 @@ Work Experience
 
 Teaching
 ======
-- 2022 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
-- 2021 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
+- Instructor at HKUST
+    - 2022 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
+    - 2021 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
+- Teaching Assistant at HKBU
+    - 2019 Spring Semester, IT Forum
+    - 2018 Fall Semester, Software Engineering
+    - 2018 Spring Semester, Advanced Programming for Software Development
+    - 2018 Spring Semester, Data Communications and Networking
+    - 2017 Fall Semester, Enterprise Networking and Cloud Computing
+    - 2017 Spring Semester, Cloud Computing
+    - 2016 Fall Semester, Mobile Computing
+    - 2016 Fall Semester, iMake Apps
+
+
 
 Research Interests ([Publications]({{ site.url }}/publications/index.html))
 ======
@@ -54,12 +66,11 @@ Professional Activities
 - Organization
     - 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
 - Invited Program Committee Member for Conferences
+    - AAAI Conference on Artificial Intelligence (AAAI), 2023
     - International Conference on High Performance Computing, Data, and Analytics (HiPC), 2022
-    - International Conference on Machine Learning  (ICML), 2022
-    - International Joint Conference on Artificial Intelligence  (IJCAI), 2022
-    - AAAI Conference on Artificial Intelligence (AAAI), 2022
-    - DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
+    - ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
 - Invited Reviewer for Journals
+    - ACM Computing Surveys (CSUR)
     - IEEE Network Magazine 
     - IEEE Transactions on Mobile Computing (TMC)
     - IEEE Transactions on Cloud Computing (TCC)
@@ -85,19 +96,6 @@ Awards and Prizes
 - 2010, First Prize of the Second National CUDA Programming Competition, NVIDIA.
 - 2009, Outstanding Prize of the First National CUDA Programming Competition, NVIDIA.
 - 2007-2010, National Scholarship and Merit Student, South China University of Technology.
-
-
-Teaching Assistant Experience
-======
- *All the courses are with Department of Computer Science, Hong Kong Baptist University*
-- 2nd Semester 2018/2019, IT Forum
-- 1st Semester 2018/2019, Software Engineering
-- 2nd Semester 2017/2018, Advanced Programming for Software Development
-- 2nd Semester 2017/2018, Data Communications and Networking
-- 1st Semester 2017/2018, Enterprise Networking and Cloud Computing
-- 2nd Semester 2016/2017, Cloud Computing
-- 1st Semester 2016/2017, Mobile Computing
-- 1st Semester 2016/2017, iMake Apps
 
 Technical Skills
 =====
