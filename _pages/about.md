@@ -9,6 +9,10 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
+I am currently an Assistant Prefossor at School of Computer Science and Technology, [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). Previsously, I was a Research Assistant Professor at [Department of Computer Science & Engineering](https://www.cse.ust.hk/) of [The Hong Kong University of Science and Technology](https://www.ust.hk). I completed my Ph.D. study with [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](http://www.comp.hkbu.edu.hk/~chxw/) in 2020. I received a B.Eng. degree in software engineering from [South China University of Technology](https://www.scut.edu.cn) in 2010, and an M.Sc. degree in computer science from [Harbin Institute of Technology](https://www.hitsz.edu.cn) under the supervision of [Prof. Xuan Wang](http://faculty.hitsz.edu.cn/wangxuan) in 2013. My current research focus is distributed machine learning systems.
+
 News
 ======
 - 01/09/2022: I joined Harbin Institute of Technology, Shenzhen as an Assistant Professor.
@@ -25,10 +29,6 @@ News
 - 28/09/2020: Awarded CCF-Baidu Open Fund (CCF-百度松果基金) \[[Link](https://mp.weixin.qq.com/s/S675-ztnW1y-kW-B6MoqOw)\].
 - 01/09/2020: I start my academic position as a RAP at HKUST.
 
-About Me
-======
-I am currently an Assistant Prefossor at School of Computer Science and Technology, [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). Previsously, I was a Research Assistant Professor at [Department of Computer Science & Engineering](https://www.cse.ust.hk/) of [The Hong Kong University of Science and Technology](https://www.ust.hk). I completed my Ph.D. study with [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](http://www.comp.hkbu.edu.hk/~chxw/) in 2020. I received a B.Eng. degree in software engineering from [South China University of Technology](https://www.scut.edu.cn) in 2010, and an M.Sc. degree in computer science from [Harbin Institute of Technology](https://www.hitsz.edu.cn) under the supervision of [Prof. Xuan Wang](http://faculty.hitsz.edu.cn/wangxuan) in 2013.
-
 Work Experience 
 ======
 - 09/2022-present: Assistant Professor, HITSZ.
@@ -36,6 +36,13 @@ Work Experience
 - 04/2019-05/2020: Deep Learning Intern, NVIDIA. 
 - 02/2014-03/2016: Senior Research Assistant, Hong Kong Baptist University. 
 - 02/2013-02/2014: Research Assistant, Hong Kong Baptist University.
+
+Research Interests ([Publications]({{ site.url }}/publications/index.html))
+======
+- Distributed machine learning systems
+- GPU computing
+- Parallel and distributed systems
+- Deep learning
 
 Teaching
 ======
@@ -51,15 +58,6 @@ Teaching
     - 2017 Spring Semester, Cloud Computing
     - 2016 Fall Semester, Mobile Computing
     - 2016 Fall Semester, iMake Apps
-
-
-
-Research Interests ([Publications]({{ site.url }}/publications/index.html))
-======
-- Distributed machine learning systems
-- GPU computing
-- Parallel and distributed systems
-- Deep learning
 
 Professional Activities
 ======
