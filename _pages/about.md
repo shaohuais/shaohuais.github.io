@@ -15,6 +15,7 @@ I am currently an Assistant Prefossor at School of Computer Science and Technolo
 
 News
 ======
+- 06/09/2022: Our paper "Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning" has been accepted by *IEEE Transactions on Cloud Computing*. 
 - 01/09/2022: I joined Harbin Institute of Technology, Shenzhen as an Assistant Professor.
 - 04/07/2022: Our paper "EASNet:Searching Elastic and Accurate Network Architecture for Stereo Matching" has been accepted by *ECCV 2022*. 
 - 15/05/2022: Our paper "Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning" has been accepted by *ICML 2022*. 
