@@ -14,6 +14,10 @@ author_profile: false
 Publications 
 ======
 (\* indicates equal contributions)
+## 2023
+- Lin Zhang, **Shaohuai Shi**, and Bo Li, "Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling," *IEEE INFOCOM 2023*, New York Area, U.S.A., May 2023. 
+- **Shaohuai Shi**, Xinglin Pan, Xiaowen Chu, and Bo Li, "PipeMoE: Accelerating Mixture-of-Experts through Adaptive Pipelining," *IEEE INFOCOM 2023*, New York Area, U.S.A., May 2023.
+
 ## 2022
 - Lin Zhang, **Shaohuai Shi**, Wei Wang, and Bo Li, "Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning," *IEEE Transactions on Cloud Computing (TCC)* 2022. \[[PDF](https://arxiv.org/pdf/2206.15143), [Code](https://github.com/lzhangbv/kfac_pytorch)\]
 - Qiang Wang, **Shaohuai Shi**, Kaiyong Zhao, and Xiaowen Chu, "EASNet: Searching Elastic and Accurate Network Architecture for Stereo Matching," *ECCV 2022*, Tel Aviv, Israel, October 2022. \[[PDF](https://arxiv.org/pdf/2207.09796), [Code](https://github.com/HKBU-HPML/EASNet)\]
