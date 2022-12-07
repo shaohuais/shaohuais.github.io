@@ -15,7 +15,7 @@ I am currently an Assistant Professor at School of Computer Science and Technolo
 
 News
 ======
-- 06/12/2022: Our paper "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication" has been accepted by *IEEE TPDS*. 
+- 06/12/2022: Our paper "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication" has been accepted by *IEEE TPDS*.
 - 02/12/2022: Two papers have been accepted by *IEEE INFOCOM 2023*. 
 - 06/09/2022: Our paper "Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning" has been accepted by *IEEE Transactions on Cloud Computing*. 
 - 01/09/2022: I joined Harbin Institute of Technology, Shenzhen as an Assistant Professor.
