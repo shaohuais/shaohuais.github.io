@@ -15,6 +15,7 @@ Publications
 ======
 (\* indicates equal contributions)
 ## 2023
+- Lin Zhang, **Shaohuai Shi**, and Bo Li, "Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation," *ICLR 2023*, Kigali, Rwanda, May 2023. \[[PDF](https://openreview.net/forum?id=_Mic8V96Voy&noteId=xn2XRwJlt8L), [Code](https://github.com/lzhangbv/eva)\]
 - Lin Zhang, **Shaohuai Shi**, and Bo Li, "Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling," *IEEE INFOCOM 2023*, New York Area, U.S.A., May 2023. 
 - **Shaohuai Shi**, Xinglin Pan, Xiaowen Chu, and Bo Li, "PipeMoE: Accelerating Mixture-of-Experts through Adaptive Pipelining," *IEEE INFOCOM 2023*, New York Area, U.S.A., May 2023.
 
