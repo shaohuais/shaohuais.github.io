@@ -15,13 +15,14 @@ Publications
 ======
 (\* indicates equal contributions)
 ## 2023
+- **Shaohuai Shi**, Qing Yang, Yang Xiang, Shuhan Qi, and Xuan Wang, "An Efficient Split Fine-tuning Framework for Edge and Cloud Collaborative Learning," *The Design Automation Conference (DAC) 2023 (Poster)*, Moscone West, San Francisco, July 2023. \[[PDF](https://arxiv.org/pdf/2211.16703.pdf), [Code](https://openi.pcl.ac.cn/Encore/splitfinetuning)\]
 - Lin Zhang, **Shaohuai Shi**, and Bo Li, "Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation," *ICLR 2023*, Kigali, Rwanda, May 2023. \[[PDF](https://openreview.net/forum?id=_Mic8V96Voy), [Code](https://github.com/lzhangbv/eva)\]
 - Lin Zhang, **Shaohuai Shi**, and Bo Li, "Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling," *IEEE INFOCOM 2023*, New York Area, U.S.A., May 2023. 
 - **Shaohuai Shi**, Xinglin Pan, Xiaowen Chu, and Bo Li, "PipeMoE: Accelerating Mixture-of-Experts through Adaptive Pipelining," *IEEE INFOCOM 2023*, New York Area, U.S.A., May 2023.
 
 ## 2022
-- Zhenheng Tang, **Shaohuai Shi**, Bo Li, and Xiaowen Chu, "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, 2022.
-- Lin Zhang, **Shaohuai Shi**, Wei Wang, and Bo Li, "Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning," *IEEE Transactions on Cloud Computing (TCC)*, 2022. \[[PDF](https://arxiv.org/pdf/2206.15143), [Code](https://github.com/lzhangbv/kfac_pytorch)\]
+- Zhenheng Tang, **Shaohuai Shi**, Bo Li, and Xiaowen Chu, "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication," *IEEE Transactions on Parallel and Distributed Systems (TPDS)*, December 2022.
+- Lin Zhang, **Shaohuai Shi**, Wei Wang, and Bo Li, "Scalable K-FAC Training for Deep Neural Networks with Distributed Preconditioning," *IEEE Transactions on Cloud Computing (TCC)*, September 2022. \[[PDF](https://arxiv.org/pdf/2206.15143), [Code](https://github.com/lzhangbv/kfac_pytorch)\]
 - Qiang Wang, **Shaohuai Shi**, Kaiyong Zhao, and Xiaowen Chu, "EASNet: Searching Elastic and Accurate Network Architecture for Stereo Matching," *ECCV 2022*, Tel Aviv, Israel, October 2022. \[[PDF](https://arxiv.org/pdf/2207.09796), [Code](https://github.com/HKBU-HPML/EASNet)\]
 - Zhenheng Tang, Yonggang Zhang, **Shaohuai Shi**, Xin He, Bo Han, and Xiaowen Chu, "Virtual Homogeneity Learning: Defending against Data Heterogeneity in Federated Learning," *ICML 2022*, Baltimore, Maryland, July 2022. \[[PDF](https://arxiv.org/pdf/2206.02465), [Code](https://github.com/wizard1203/VHL)\]
 
