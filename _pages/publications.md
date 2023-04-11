@@ -15,6 +15,8 @@ Publications
 ======
 (\* indicates equal contributions)
 ## 2023
+- Lin Zhang, Longteng Zhang, **Shaohuai Shi**, Xiaowen Chu and Bo Li, "Evaluation and Optimization of Gradient Compression for Distributed Deep Learning," *IEEE ICDCS 2023*, Hong Kong, China, July 2023. 
+- Lin Zhang, **Shaohuai Shi**, Xiaowen Chu, Wei Wang, Bo Li and Chengjian Liu, "Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining," *IEEE ICDCS 2023*, Hong Kong, China, July 2023. 
 - **Shaohuai Shi**, Qing Yang, Yang Xiang, Shuhan Qi, and Xuan Wang, "An Efficient Split Fine-tuning Framework for Edge and Cloud Collaborative Learning," *The Design Automation Conference (DAC) 2023 (Poster)*, Moscone West, San Francisco, July 2023. \[[PDF](https://arxiv.org/pdf/2211.16703.pdf), [Code](https://openi.pcl.ac.cn/Encore/splitfinetuning)\]
 - Lin Zhang, **Shaohuai Shi**, and Bo Li, "Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation," *ICLR 2023*, Kigali, Rwanda, May 2023. \[[PDF](https://openreview.net/forum?id=_Mic8V96Voy), [Code](https://github.com/lzhangbv/eva)\]
 - Lin Zhang, **Shaohuai Shi**, and Bo Li, "Accelerating Distributed K-FAC with Efficient Collective Communication and Scheduling," *IEEE INFOCOM 2023*, New York Area, U.S.A., May 2023. 

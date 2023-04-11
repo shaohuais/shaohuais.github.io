@@ -15,6 +15,7 @@ I am currently an Assistant Professor at School of Computer Science and Technolo
 
 News
 ======
+- 10/04/2023: Two papers have been accepted by *IEEE ICDCS 2023*. 
 - 21/01/2023: Our paper "Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation" has been accepted by *ICLR 2023*.
 - 06/12/2022: Our paper "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication" has been accepted by *IEEE TPDS*.
 - 02/12/2022: Two papers have been accepted by *IEEE INFOCOM 2023*. 
