@@ -15,6 +15,7 @@ Publications
 ======
 (\* indicates equal contributions)
 ## 2023
+- Zhenheng Tang, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, Qiang Wang, Rongfei Zeng, **Shaohuai Shi**, Bingsheng He, and Xiaowen Chu, "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs," *Symposium on Large Language Models (LLM 2023) with IJCAI 2023*, Macao, China, August 21, 2023.
 - Lin Zhang, Longteng Zhang, **Shaohuai Shi**, Xiaowen Chu and Bo Li, "Evaluation and Optimization of Gradient Compression for Distributed Deep Learning," *IEEE ICDCS 2023*, Hong Kong, China, July 2023. 
 - Lin Zhang, **Shaohuai Shi**, Xiaowen Chu, Wei Wang, Bo Li and Chengjian Liu, "Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining," *IEEE ICDCS 2023*, Hong Kong, China, July 2023. 
 - **Shaohuai Shi**, Qing Yang, Yang Xiang, Shuhan Qi, and Xuan Wang, "An Efficient Split Fine-tuning Framework for Edge and Cloud Collaborative Learning," *The Design Automation Conference (DAC) 2023 (Poster)*, Moscone West, San Francisco, July 2023. \[[PDF](https://arxiv.org/pdf/2211.16703.pdf), [Code](https://openi.pcl.ac.cn/Encore/splitfinetuning)\]
