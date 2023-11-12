@@ -13,7 +13,9 @@ author_profile: false
 
 Publications 
 ======
-(\* indicates equal contributions)
+## 2024
+- Hucheng Liu, **Shaohuai Shi**, Xuan Wang, Zoe Lin Jiang, and Qian Chen, "Performance Analysis and Optimizations of Matrix Multiplications on ARMv8 Processors," *Design, Automation and Test in Europe Conference (DATE)*, Valencia, Spain, March 25-27, 2024.
+
 ## 2023
 - Zhenheng Tang, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, Qiang Wang, Rongfei Zeng, **Shaohuai Shi**, Bingsheng He, and Xiaowen Chu, "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs," *Symposium on Large Language Models (LLM 2023) with IJCAI 2023*, Macao, China, August 21, 2023.
 - Lin Zhang, Longteng Zhang, **Shaohuai Shi**, Xiaowen Chu and Bo Li, "Evaluation and Optimization of Gradient Compression for Distributed Deep Learning," *IEEE ICDCS 2023*, Hong Kong, China, July 2023. 

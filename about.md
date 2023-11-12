@@ -11,10 +11,11 @@ redirect_from:
 
 About Me
 ======
-I am currently a Professor at School of Computer Science and Technology, [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). Previously, I was a Research Assistant Professor at [Department of Computer Science & Engineering](https://www.cse.ust.hk/) of [The Hong Kong University of Science and Technology](https://www.ust.hk). I completed my Ph.D. study with [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](http://www.comp.hkbu.edu.hk/~chxw/) in 2020. I received a B.Eng. degree in software engineering from [South China University of Technology](https://www.scut.edu.cn) in 2010, and an M.Sc. degree in computer science from [Harbin Institute of Technology](https://www.hitsz.edu.cn) under the supervision of [Prof. Xuan Wang](http://faculty.hitsz.edu.cn/wangxuan) in 2013. My current research focus is distributed machine learning systems.
+I am currently a Professor at School of Computer Science and Technology, [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). Previously, I was a Research Assistant Professor at [Department of Computer Science & Engineering](https://www.cse.ust.hk/) of [The Hong Kong University of Science and Technology](https://www.ust.hk). I completed my Ph.D. study with [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) in 2020. I received a B.Eng. degree in software engineering from [South China University of Technology](https://www.scut.edu.cn) in 2010, and an M.Sc. degree in computer science from [Harbin Institute of Technology](https://www.hitsz.edu.cn) under the supervision of [Prof. Xuan Wang](http://faculty.hitsz.edu.cn/wangxuan) in 2013. My current research focus is distributed machine learning systems.
 
 News
 ======
+- 12/12/2023: Our paper "Performance Analysis and Optimizations of Matrix Multiplications on ARMv8 Processors" has been accepted by *DATE 2024*. 
 - 10/04/2023: Two papers have been accepted by *IEEE ICDCS 2023*. 
 - 21/01/2023: Our paper "Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation" has been accepted by *ICLR 2023*.
 - 06/12/2022: Our paper "GossipFL: A Decentralized Federated Learning Framework with Sparsified and Adaptive Communication" has been accepted by *IEEE TPDS*.
