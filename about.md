@@ -53,6 +53,10 @@ Research Interests ([Publications]({{ site.url }}/publications/index.html))
 
 Teaching
 ======
+- Instructor at HITSZ
+    - 2023 Fall Semester: Parallel Processing and Computer Architecture 
+    - 2023 Fall Semester: Computer Architecture 
+    - 2022 Spring Semester: Computer Systems (CSAPP) 
 - Instructor at HKUST
     - 2022 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
     - 2021 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
@@ -71,9 +75,8 @@ Professional Activities
 - Organization
     - 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
 - Invited Program Committee Member for Conferences
-    - AAAI Conference on Artificial Intelligence (AAAI), 2023
-    - International Conference on High Performance Computing, Data, and Analytics (HiPC), 2022
-    - ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
+    - ICLR '24, AAAI '24
+    - NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
 - Invited Reviewer for Journals
     - ACM Computing Surveys (CSUR)
     - IEEE Network Magazine 
@@ -91,9 +94,7 @@ Awards and Prizes
 ======
 - 2021, Best Paper Award of IEEE INFOCOM 2021. 
 - 2020, Yakun Scholarship Scheme for Mainland Postgraduate Students, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
-- 2020, RPg Performance Award Scheme, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
-- 2019, RPg Performance Award Scheme, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
-- 2018, RPg Performance Award Scheme, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
+- 2018-2020, RPg Performance Award Scheme, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 - 2018, Best Paper Award of IEEE DataCom 2018. \[[Link](https://www.comp.hkbu.edu.hk/v1/?page=std_ach&id=117&ach)\]
 - 2018, Teaching Assistant Performance Award, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 - 2017, Alibaba Tianchi Healthcare AI Competition, Ranked 7th out of 2887. \[[Link](https://tianchi.aliyun.com/competition/entrance/231601/rankingList?lang=en-us)\]
