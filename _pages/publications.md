@@ -14,6 +14,7 @@ author_profile: false
 Publications 
 ======
 ## 2024
+- Xinglin Pan, Wenxiang Lin, **Shaohuai Shi**, Xiaowen Chu, Weinong Sun, and Bo Li, "Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules," *IEEE INFOCOM 2024*, Vancouver, Canada, May 20-23, 2024.
 - Hucheng Liu, **Shaohuai Shi**, Xuan Wang, Zoe Lin Jiang, and Qian Chen, "Performance Analysis and Optimizations of Matrix Multiplications on ARMv8 Processors," *Design, Automation and Test in Europe Conference (DATE)*, Valencia, Spain, March 25-27, 2024.
 
 ## 2023

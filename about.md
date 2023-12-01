@@ -15,6 +15,7 @@ I am currently a Professor at School of Computer Science and Technology, [Harbin
 
 News
 ======
+- 01/12/2023: Our paper "Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules" has been accepted by *INFOCOM 2024*. 
 - 12/11/2023: Our paper "Performance Analysis and Optimizations of Matrix Multiplications on ARMv8 Processors" has been accepted by *DATE 2024*. 
 - 10/04/2023: Two papers have been accepted by *IEEE ICDCS 2023*. 
 - 21/01/2023: Our paper "Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation" has been accepted by *ICLR 2023*.
