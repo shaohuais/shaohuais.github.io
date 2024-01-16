@@ -15,6 +15,8 @@ I am currently a Professor at School of Computer Science and Technology, [Harbin
 
 News
 ======
+- 16/01/2024: Our paper "FedImpro: Measuring and Improving Client Update in Federated Learning" has been accepted by *ICLR 2024*. 
+- 10/01/2024: Our paper "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling" has been accepted by *EuroSys 2024*. 
 - 01/12/2023: Our paper "Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules" has been accepted by *IEEE INFOCOM 2024*. 
 - 12/11/2023: Our paper "Performance Analysis and Optimizations of Matrix Multiplications on ARMv8 Processors" has been accepted by *DATE 2024*. 
 - 10/04/2023: Two papers have been accepted by *IEEE ICDCS 2023*. 
