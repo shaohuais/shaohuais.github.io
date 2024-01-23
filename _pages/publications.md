@@ -14,6 +14,8 @@ author_profile: false
 Publications 
 ======
 ## 2024
+- Zhenheng Tang, Yonggang Zhang, **Shaohuai Shi**, Xinmei Tian, Tongliang Liu, Bo Han, Xiaowen Chu, "FedImpro: Measuring and Improving Client Update in Federated Learning," *ICLR 2024*, Vienna, Austria, May 7-11, 2024.
+- **Shaohuai Shi**, Xinglin Pan, Qiang Wang, Chengjian Liu, Xiaozhe Ren, Zhongzhe Hu, Yu Yang, Bo Li, and Xiaowen Chu, "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling," *EuroSys 2024*, Athens, Greece, April 22-25, 2024.
 - Xinglin Pan, Wenxiang Lin, **Shaohuai Shi**, Xiaowen Chu, Weinong Sun, and Bo Li, "Parm: Efficient Training of Large Sparsely-Activated Models with Dedicated Schedules," *IEEE INFOCOM 2024*, Vancouver, Canada, May 20-23, 2024.
 - Hucheng Liu, **Shaohuai Shi**, Xuan Wang, Zoe Lin Jiang, and Qian Chen, "Performance Analysis and Optimizations of Matrix Multiplications on ARMv8 Processors," *Design, Automation and Test in Europe Conference (DATE)*, Valencia, Spain, March 25-27, 2024.
 
