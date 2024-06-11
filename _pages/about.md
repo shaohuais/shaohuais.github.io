@@ -15,6 +15,7 @@ I am currently a Professor at School of Computer Science and Technology, [Harbin
 
 News
 ======
+- 11/06/2024: Two papers have been accepted by *ICPP 2024*. 
 - 15/04/2024: Our paper "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" has been accepted by *IEEE/ACM IWQoS 2024*. 
 - 16/01/2024: Our paper "FedImpro: Measuring and Improving Client Update in Federated Learning" has been accepted by *ICLR 2024*. 
 - 10/01/2024: Our paper "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling" has been accepted by *EuroSys 2024*. 
