@@ -14,6 +14,8 @@ author_profile: false
 Publications 
 ======
 ## 2024
+- Jing Peng, Zihan Li, **Shaohuai Shi**, and Bo Li, "Sparse Gradient Communication with AlltoAll for Accelerating Distributed Deep Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
+- Zichen Tang, Junlin Huang, Rudan Yan, Yuxin Wang, Zhenheng Tang, **Shaohuai Shi**, Amelie Chi Zhou, Xiaowen Chu, "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
 - Yizhou Luo, Qiang Wang, **Shaohuai Shi**, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," *IEEE/ACM IWQoS 2024*, Guangzhou, China, June 19-21, 2024.
 - Zhenheng Tang, Yonggang Zhang, **Shaohuai Shi**, Xinmei Tian, Tongliang Liu, Bo Han, Xiaowen Chu, "FedImpro: Measuring and Improving Client Update in Federated Learning," *ICLR 2024*, Vienna, Austria, May 7-11, 2024.
 - **Shaohuai Shi**, Xinglin Pan, Qiang Wang, Chengjian Liu, Xiaozhe Ren, Zhongzhe Hu, Yu Yang, Bo Li, and Xiaowen Chu, "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling," *EuroSys 2024*, Athens, Greece, April 22-25, 2024.
