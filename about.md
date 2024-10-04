@@ -43,6 +43,9 @@ Research Interests ([Publications]({{ site.url }}/publications/index.html))
 Teaching
 ======
 - Instructor at HITSZ
+    - 2024 Fall Semester: Parallel Processing and Computer Architecture 
+    - 2024 Fall Semester: Computer Architecture 
+    - 2023 Spring Semester: Computer Systems (CSAPP) 
     - 2023 Fall Semester: Parallel Processing and Computer Architecture 
     - 2023 Fall Semester: Computer Architecture 
     - 2022 Spring Semester: Computer Systems (CSAPP) 
@@ -62,10 +65,11 @@ Teaching
 Professional Activities
 ======
 - Organization
-    - 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
+    - Poster Co-chair of [IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)](https://iwqos2024.ieee-iwqos.org/).
+    - Co-chair of 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
 - Invited Program Committee Member for Conferences
-    - ICLR '24, AAAI '24
-    - NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
+    - KDD '25, ICDCS '25
+    - ICLR '24, AAAI '24, NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
 - Invited Reviewer for Journals
     - ACM Computing Surveys (CSUR)
     - IEEE Network Magazine 
@@ -74,6 +78,7 @@ Professional Activities
     - IEEE Transactions on Parallel and Distributed Systems (TPDS)
     - IEEE Transactions on Network Science and Engineering (TNSE)
     - IEEE Transactions on Industrial Informatics (TII)
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - IEEE Journal on Selected Areas in Communications (JSAC)
     - Journal of Parallel and Distributed Computing (JPDC)
     - IEEE Acess 
@@ -81,15 +86,16 @@ Professional Activities
 
 Awards and Prizes
 ======
-- 2021, Best Paper Award of IEEE INFOCOM 2021. 
+- 2024, Outstanding Contributors to Kunpeng&Shengteng Research Innovation (昇腾科研创新卓越贡献者). \[[Link](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ)\]
+- 2021, Best Paper Award of IEEE INFOCOM 2021. \[[Link](https://infocom2021.ieee-infocom.org/awards.html)\] 
 - 2020, Yakun Scholarship Scheme for Mainland Postgraduate Students, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 - 2018-2020, RPg Performance Award Scheme, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 - 2018, Best Paper Award of IEEE DataCom 2018. \[[Link](https://www.comp.hkbu.edu.hk/v1/?page=std_ach&id=117&ach)\]
 - 2018, Teaching Assistant Performance Award, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 - 2017, Alibaba Tianchi Healthcare AI Competition, Ranked 7th out of 2887. \[[Link](https://tianchi.aliyun.com/competition/entrance/231601/rankingList?lang=en-us)\]
 - 2012, Graduate National Scholarship, Harbin Institute of Technology. \[[Link](http://www.hitsz.edu.cn/article/view/id-16543.html)\]
-- 2010, First Prize of the Second National CUDA Programming Competition, NVIDIA.
-- 2009, Outstanding Prize of the First National CUDA Programming Competition, NVIDIA.
+- 2010, First Prize of the Second National CUDA Programming Competition, NVIDIA. \[[Link](https://wenku.baidu.com/view/66da06a0284ac850ad02421b?pcf=2&bfetype=new&bfetype=new&_wkts_=1728023598997)\]
+- 2009, Outstanding Prize of the First National CUDA Programming Competition, NVIDIA. \[[Link](https://blog.csdn.net/iteye_702/article/details/81765791)\]
 - 2007-2010, National Scholarship and Merit Student, South China University of Technology.
 
 Technical Skills
