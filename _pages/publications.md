@@ -13,6 +13,9 @@ author_profile: false
 
 Publications 
 ======
+## 2025
+- Xinglin Pan, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Zhenheng Tang, Rui Wang, Bo Li, and Xiaowen Chu, "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models," *ASPLOS 2025*, Rotterdam, The Netherlands, March 30-April 3, 2025.
+
 ## 2024
 - Jing Peng, Zihan Li, **Shaohuai Shi**, and Bo Li, "Sparse Gradient Communication with AlltoAll for Accelerating Distributed Deep Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
 - Zichen Tang, Junlin Huang, Rudan Yan, Yuxin Wang, Zhenheng Tang, **Shaohuai Shi**, Amelie Chi Zhou, Xiaowen Chu, "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
