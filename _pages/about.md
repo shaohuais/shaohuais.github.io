@@ -16,7 +16,7 @@ I am currently a Professor at School of Computer Science and Technology, [Harbin
 News
 ======
 - 03/10/2024: Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models" has been accepted by *ASPLOS 2025*. 
-- 21/09/2024: I am awarded as one of [Outstanding Contributors to Kunpeng&Shengteng Research Innovation](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ). 
+- 21/09/2024: I am awarded as one of [Outstanding Contributors to Ascend Research Innovation](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ). 
 - 16/09/2024: I has been ranked [2024 World’s Top 2% Scientists](https://top2percentscientists.com/top-2-percent-scientists-by-stanford/) Released by Stanford University.
 - 11/06/2024: Two papers have been accepted by *ICPP 2024*. 
 - 15/04/2024: Our paper "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" has been accepted by *IEEE/ACM IWQoS 2024*. 
