@@ -17,7 +17,7 @@ Publications
 - Xinglin Pan, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Zhenheng Tang, Rui Wang, Bo Li, and Xiaowen Chu, "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models," *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2025*, Rotterdam, The Netherlands, March 30-April 3, 2025.
 
 ## 2024
-- Ye Liu, Shan Chang, **Shaohuai Shi**, and Bo Li, "RoPe-Door: Towards Robust and Persistent Backdoor Data Poisoning Attacks in Federated Learning," *IEEE Network*, October 25, 2024.
+- Ye Liu, Shan Chang, Denghui Li, **Shaohuai Shi**, and Bo Li, "RoPe-Door: Towards Robust and Persistent Backdoor Data Poisoning Attacks in Federated Learning," *IEEE Network*, October 25, 2024.
 - Jing Peng, Zihan Li, **Shaohuai Shi**, and Bo Li, "Sparse Gradient Communication with AlltoAll for Accelerating Distributed Deep Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
 - Zichen Tang, Junlin Huang, Rudan Yan, Yuxin Wang, Zhenheng Tang, **Shaohuai Shi**, Amelie Chi Zhou, Xiaowen Chu, "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
 - Yizhou Luo, Qiang Wang, **Shaohuai Shi**, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," *IEEE/ACM IWQoS 2024*, Guangzhou, China, June 19-21, 2024.
