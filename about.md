@@ -45,10 +45,10 @@ Teaching
 - Instructor at HITSZ
     - 2024 Fall Semester: Parallel Processing and Computer Architecture 
     - 2024 Fall Semester: Computer Architecture 
-    - 2023 Spring Semester: Computer Systems (CSAPP) 
+    - 2024 Spring Semester: Computer Systems (CSAPP) 
     - 2023 Fall Semester: Parallel Processing and Computer Architecture 
     - 2023 Fall Semester: Computer Architecture 
-    - 2022 Spring Semester: Computer Systems (CSAPP) 
+    - 2023 Spring Semester: Computer Systems (CSAPP) 
 - Instructor at HKUST
     - 2022 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
     - 2021 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
@@ -86,7 +86,7 @@ Professional Activities
 
 Awards and Prizes
 ======
-- 2024, Outstanding Contributors to Kunpeng&Shengteng Research Innovation (昇腾科研创新卓越贡献者). \[[Link](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ)\]
+- 2024, Outstanding Contributors to Ascend Research Innovation (昇腾科研创新卓越贡献者). \[[Link](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ)\]
 - 2021, Best Paper Award of IEEE INFOCOM 2021. \[[Link](https://infocom2021.ieee-infocom.org/awards.html)\] 
 - 2020, Yakun Scholarship Scheme for Mainland Postgraduate Students, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
 - 2018-2020, RPg Performance Award Scheme, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
