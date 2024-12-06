@@ -14,6 +14,7 @@ author_profile: false
 Publications 
 ======
 ## 2025
+- Ne Wang, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Ruiting Zhou, and Bo Li, "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning," *IEEE International Conference on Computer Communications (INFOCOM) 2025*, London, United Kingdom, May 19–22, 2025.
 - Xinglin Pan, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Zhenheng Tang, Rui Wang, Bo Li, and Xiaowen Chu, "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models," *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2025*, Rotterdam, The Netherlands, March 30-April 3, 2025.
 
 ## 2024
