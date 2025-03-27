@@ -15,6 +15,7 @@ I am currently a Professor at the [School of Computer Science and Technology](ht
 
 News
 ======
+- 27/03/2025: Two papers have been accepted by *ICDCS 2025*. 
 - 06/12/2024: Our paper "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning" has been accepted by *INFOCOM 2025*. 
 - 03/10/2024: Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models" has been accepted by *ASPLOS 2025*. 
 - 21/09/2024: I am awarded as one of [Outstanding Contributors to Ascend Research Innovation](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ). 

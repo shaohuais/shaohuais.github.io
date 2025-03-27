@@ -14,6 +14,8 @@ author_profile: false
 Publications 
 ======
 ## 2025
+- Wenxiang Lin, Xinglin Pan, **Shaohuai Shi**, Xuan Wang, Bo Li and Xiaowen Chu, "Mast: Efficient Training of Mixture-of-Experts Transformers with Task Pipelining and Ordering," *International Conference on Distributed Computing Systems (ICDCS) 2025*, Glasgow, Scotland, July 20–23, 2025.
+- Xinglin Pan, Rui Wang, Wenxiang Lin, **Shaohuai Shi**, and Xiaowen Chu, "Mitigating Contention in Stream Multiprocessors for Pipelined Mixture of Experts: An SM-Aware Scheduling Approach," *International Conference on Distributed Computing Systems (ICDCS) 2025*, Glasgow, Scotland, July 20–23, 2025.
 - Ne Wang, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Ruiting Zhou, and Bo Li, "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning," *IEEE International Conference on Computer Communications (INFOCOM) 2025*, London, United Kingdom, May 19–22, 2025.
 - Xinglin Pan, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Zhenheng Tang, Rui Wang, Bo Li, and Xiaowen Chu, "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models," *ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS) 2025*, Rotterdam, The Netherlands, March 30-April 3, 2025.
 
@@ -30,6 +32,7 @@ Publications
 ## 2023
 - Zhenheng Tang, Yuxin Wang, Xin He, Longteng Zhang, Xinglin Pan, Qiang Wang, Rongfei Zeng, **Shaohuai Shi**, Bingsheng He, and Xiaowen Chu, "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs," *Symposium on Large Language Models (LLM 2023) with IJCAI 2023*, Macao, China, August 21, 2023.
 - Lin Zhang, Longteng Zhang, **Shaohuai Shi**, Xiaowen Chu and Bo Li, "Evaluation and Optimization of Gradient Compression for Distributed Deep Learning," *IEEE ICDCS 2023*, Hong Kong, China, July 2023. 
+
 - Lin Zhang, **Shaohuai Shi**, Xiaowen Chu, Wei Wang, Bo Li and Chengjian Liu, "Accelerating Distributed Deep Learning with Fine-Grained All-Reduce Pipelining," *IEEE ICDCS 2023*, Hong Kong, China, July 2023. 
 - **Shaohuai Shi**, Qing Yang, Yang Xiang, Shuhan Qi, and Xuan Wang, "An Efficient Split Fine-tuning Framework for Edge and Cloud Collaborative Learning," *The Design Automation Conference (DAC) 2023 (Poster)*, Moscone West, San Francisco, July 2023. \[[PDF](https://arxiv.org/pdf/2211.16703.pdf), [Code](https://openi.pcl.ac.cn/Encore/splitfinetuning)\]
 - Lin Zhang, **Shaohuai Shi**, and Bo Li, "Eva: Practical Second-order Optimization with Kronecker-vectorized Approximation," *ICLR 2023*, Kigali, Rwanda, May 2023. \[[PDF](https://openreview.net/forum?id=_Mic8V96Voy), [Code](https://github.com/lzhangbv/eva)\]
