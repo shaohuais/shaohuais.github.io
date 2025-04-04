@@ -19,7 +19,7 @@ News
 - 06/12/2024: Our paper "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning" has been accepted by *INFOCOM 2025*. 
 - 03/10/2024: Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models" has been accepted by *ASPLOS 2025*. 
 - 21/09/2024: I am awarded as one of [Outstanding Contributors to Ascend Research Innovation](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ). 
-- 16/09/2024: I has been ranked [2024 World’s Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7) released by Stanford University.
+- 16/09/2024: I have been ranked [2024 World’s Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7) released by Stanford University.
 - 11/06/2024: Two papers have been accepted by *ICPP 2024*. 
 - 15/04/2024: Our paper "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" has been accepted by *IEEE/ACM IWQoS 2024*. 
 - 16/01/2024: Our paper "FedImpro: Measuring and Improving Client Update in Federated Learning" has been accepted by *ICLR 2024*. 
