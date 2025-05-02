@@ -11,10 +11,13 @@ redirect_from:
 
 About Me
 ======
-I am currently a Professor at the [School of Computer Science and Technology](http://cs.hitsz.edu.cn), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). Previously, I was a Research Assistant Professor at the [Department of Computer Science & Engineering](https://www.cse.ust.hk/) of [The Hong Kong University of Science and Technology](https://www.ust.hk). I completed my Ph.D. study with [Hong Kong Baptist University](https://www.hkbu.edu.hk) under the supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) in 2020. I received a B.Eng. degree in software engineering from [South China University of Technology](https://www.scut.edu.cn) in 2010, and an M.Sc. degree in computer science from [Harbin Institute of Technology](https://www.hitsz.edu.cn) under the supervision of [Prof. Xuan Wang](http://faculty.hitsz.edu.cn/wangxuan) in 2013. My current research focus is distributed machine learning systems.
+I am currently a Professor at the [School of Computer Science and Technology](http://cs.hitsz.edu.cn), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). Prior to that, I was a Research Assistant Professor at the [Department of Computer Science & Engineering](https://www.cse.ust.hk/), [The Hong Kong University of Science and Technology](https://www.ust.hk). I obtained a Ph.D. degree in computer science at the [Department of Computer Science](https://www.comp.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk) in 2020, an M.Sc. degree in computer science at the [School of Computer Science and Technology]((http://cs.hitsz.edu.cn) of [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn) in 2013, and a B.Eng. degree in software engineering at the School of Software Engineering, [South China University of Technology](https://www.scut.edu.cn) in 2010. 
+
+My current research focus is distributed machine learning systems, aiming to build efficient systems of training and inference of deep neural networks.
 
 News
 ======
+- 30/04/2025: Two papers (ScheInfer and SQ-DeAR) have been accepted by *Euro-Par 2025*. 
 - 27/03/2025: Two papers have been accepted by *ICDCS 2025*. 
 - 06/12/2024: Our paper "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning" has been accepted by *INFOCOM 2025*. 
 - 03/10/2024: Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models" has been accepted by *ASPLOS 2025*. 
@@ -45,6 +48,7 @@ Research Interests ([Publications]({{ site.url }}/publications/index.html))
 Teaching
 ======
 - Instructor at HITSZ
+    - 2025 Spring Semester: Computer Systems (CSAPP) 
     - 2024 Fall Semester: Parallel Processing and Computer Architecture 
     - 2024 Fall Semester: Computer Architecture 
     - 2024 Spring Semester: Computer Systems (CSAPP) 
@@ -69,10 +73,10 @@ Professional Activities
 - Organization
     - Poster Co-chair of [IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)](https://iwqos2024.ieee-iwqos.org/).
     - Co-chair of 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
-- Invited Program Committee Member for Conferences
-    - KDD '25, ICDCS '25
+- Program Committee Member for Conferences
+    - IWQoS '25, KDD '25, ICDCS '25
     - ICLR '24, AAAI '24, NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
-- Invited Reviewer for Journals
+- Reviewer for Journals
     - ACM Computing Surveys (CSUR)
     - IEEE Network Magazine 
     - IEEE Transactions on Mobile Computing (TMC)

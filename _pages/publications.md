@@ -14,6 +14,8 @@ author_profile: false
 Publications 
 ======
 ## 2025
+- Xinrui Yang and **Shaohuai Shi**, "SQ-DeAR: Sparsified and Quantized Gradient Compression for Distributed Training," *31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
+- Wenxiang Lin, Xinglin Pan, **Shaohuai Shi**, Xuan Wang, and Xiaowen Chu, "ScheInfer: Efficient Inference of Large Language Models with Task Scheduling on Moderate GPUs," *31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
 - Wenxiang Lin, Xinglin Pan, **Shaohuai Shi**, Xuan Wang, Bo Li and Xiaowen Chu, "Mast: Efficient Training of Mixture-of-Experts Transformers with Task Pipelining and Ordering," *International Conference on Distributed Computing Systems (ICDCS) 2025*, Glasgow, Scotland, July 20–23, 2025.
 - Xinglin Pan, Rui Wang, Wenxiang Lin, **Shaohuai Shi**, and Xiaowen Chu, "Mitigating Contention in Stream Multiprocessors for Pipelined Mixture of Experts: An SM-Aware Scheduling Approach," *International Conference on Distributed Computing Systems (ICDCS) 2025*, Glasgow, Scotland, July 20–23, 2025.
 - Ne Wang, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Ruiting Zhou, and Bo Li, "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning," *IEEE International Conference on Computer Communications (INFOCOM) 2025*, London, United Kingdom, May 19–22, 2025.
