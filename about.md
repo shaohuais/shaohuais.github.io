@@ -17,6 +17,7 @@ My current research focus is distributed machine learning systems, aiming to bui
 
 News
 ======
+- 22/07/2025: Our paper "Mast: Efficient Training of Mixture-of-Experts Transformers with Task Pipelining and Ordering" receives the **Distinguished Paper Award** (3 out of 104 accepted papers) at IEEE ICDCS 2025. Congrats to Wenxiang, Xinglin, and other co-authors.
 - 30/04/2025: Two papers (ScheInfer and SQ-DeAR) have been accepted by *Euro-Par 2025*. 
 - 27/03/2025: Two papers have been accepted by *ICDCS 2025*. 
 - 06/12/2024: Our paper "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning" has been accepted by *INFOCOM 2025*. 
@@ -92,6 +93,8 @@ Professional Activities
 
 Awards and Prizes
 ======
+- 2025, Distinguished Paper Award of IEEE ICDCS 2025.
+- 2025, Huawei Best Technology Collaboration Award (华为最佳技术合作奖).
 - 2024, Outstanding Contributors to Ascend Research Innovation (昇腾科研创新卓越贡献者). \[[Link](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ)\]
 - 2021, Best Paper Award of IEEE INFOCOM 2021. \[[Link](https://infocom2021.ieee-infocom.org/awards.html)\] 
 - 2020, Yakun Scholarship Scheme for Mainland Postgraduate Students, Hong Kong Baptist University. \[[Link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
