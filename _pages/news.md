@@ -13,6 +13,11 @@ author_profile: false
 
 News
 ======
+- 22/07/2025: Our paper "Mast: Efficient Training of Mixture-of-Experts Transformers with Task Pipelining and Ordering" receives the **Distinguished Paper Award** (3 out of 104 accepted papers) at IEEE ICDCS 2025. Congrats to Wenxiang, Xinglin, and other co-authors.
+- 30/06/2025: I am honored with the Huawei Best Technology Collaboration Award (华为最佳技术合作奖）.
+- 30/04/2025: Two papers (ScheInfer and SQ-DeAR) have been accepted by *Euro-Par 2025*. 
+- 27/03/2025: Two papers have been accepted by *ICDCS 2025*. 
+- 06/12/2024: Our paper "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning" has been accepted by *INFOCOM 2025*. 
 - 03/10/2024: Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models" has been accepted by *ASPLOS 2025*. 
 - 20/09/2024: I am awarded as one of [Outstanding Contributors to Kunpeng&Shengteng Research Innovation (昇腾科研创新卓越贡献者)](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ). 
 - 16/09/2024: I has been ranked [2024 World’s Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7) released by Stanford University.
