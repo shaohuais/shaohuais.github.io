@@ -14,6 +14,8 @@ author_profile: false
 Publications 
 ======
 ## 2025
+- Yizhou Luo, Jiaxin Lai, **Shaohuai Shi**, Chen Chen, Shuhan Qi, Jiajia Zhang, Qiang Wang, "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation," *IEEE Transactions on Cloud Computing (TCC)*, October 2025.
+- Xiang Fan and **Shaohuai Shi**, "QPO: Accelerating Memory-Efficient DNN Training with Quantization and Pipelining," *31st IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025)*, Hefei, China, December 14-18, 2025.
 - Zhengyu Qing, **Shaohuai Shi**, and Qiang Wang, "DeepFill: Accelerating MLLM Training by Filling Bubbles with Frozen Encoders," *25th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)*, Zhengzhou, China, October 30-November 02, 2025.
 - Xinrui Yang and **Shaohuai Shi**, "SQ-DeAR: Sparsified and Quantized Gradient Compression for Distributed Training," *31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
 - Wenxiang Lin, Xinglin Pan, **Shaohuai Shi**, Xuan Wang, and Xiaowen Chu, "ScheInfer: Efficient Inference of Large Language Models with Task Scheduling on Moderate GPUs," *31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
