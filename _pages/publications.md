@@ -14,8 +14,8 @@ author_profile: false
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
 ## 2026
-- Sijie Wang, Qiang Wang, and **Shaohuai Shi**, "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling," *the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore, January 20-27, 2026.
-- Longteng Zhang, Sen Wu, Shuai Hou, Zhengyu Qing, Zhuo Zheng, Danning Ke, Qihong Lin, Qiang Wang, **Shaohuai Shi**, and Xiaowen Chu, "SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models," *the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore, January 20-27, 2026.
+- Sijie Wang, Qiang Wang, and **Shaohuai Shi**, "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling," *the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)*, Singapore, January 20-27, 2026.
+- Longteng Zhang, Sen Wu, Shuai Hou, Zhengyu Qing, Zhuo Zheng, Danning Ke, Qihong Lin, Qiang Wang, **Shaohuai Shi**, and Xiaowen Chu, "SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models," *the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)*, Singapore, January 20-27, 2026.
 
 ## 2025
 - Yizhou Luo, Jiaxin Lai, **Shaohuai Shi**, Chen Chen, Shuhan Qi, Jiajia Zhang, Qiang Wang, "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation," *IEEE Transactions on Cloud Computing (TCC)*, October 2025.
