@@ -11,14 +11,18 @@ author_profile: false
 
 {% include base_path %}
 
-Publications 
+Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
+## 2026
+- Sijie Wang, Qiang Wang, and **Shaohuai Shi**, "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling," *the 40th Annual AAAI Conference on Artificial Intelligence*, Singapore, January 20-27, 2026.
+Longteng Zhang, Sen Wu, Shuai Hou, Zhengyu Qing, Zhuo Zheng, Danning Ke, Qihong Lin, Qiang Wang, **Shaohuai Shi**, and Xiaowen Chu, "SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models," *the 40th Annual AAAI Conference on Artificial Intelligence, Singapore*, January 20-27, 2026.
+
 ## 2025
 - Yizhou Luo, Jiaxin Lai, **Shaohuai Shi**, Chen Chen, Shuhan Qi, Jiajia Zhang, Qiang Wang, "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation," *IEEE Transactions on Cloud Computing (TCC)*, October 2025.
-- Xiang Fan and **Shaohuai Shi**, "QPO: Accelerating Memory-Efficient DNN Training with Quantization and Pipelining," *31st IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025)*, Hefei, China, December 14-18, 2025.
-- Zhengyu Qing, **Shaohuai Shi**, and Qiang Wang, "DeepFill: Accelerating MLLM Training by Filling Bubbles with Frozen Encoders," *25th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)*, Zhengzhou, China, October 30-November 02, 2025.
-- Xinrui Yang and **Shaohuai Shi**, "SQ-DeAR: Sparsified and Quantized Gradient Compression for Distributed Training," *31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
-- Wenxiang Lin, Xinglin Pan, **Shaohuai Shi**, Xuan Wang, and Xiaowen Chu, "ScheInfer: Efficient Inference of Large Language Models with Task Scheduling on Moderate GPUs," *31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
+- Xiang Fan and **Shaohuai Shi**, "QPO: Accelerating Memory-Efficient DNN Training with Quantization and Pipelining," *the 31st IEEE International Conference on Parallel and Distributed Systems (ICPADS 2025)*, Hefei, China, December 14-18, 2025.
+- Zhengyu Qing, **Shaohuai Shi**, and Qiang Wang, "DeepFill: Accelerating MLLM Training by Filling Bubbles with Frozen Encoders," *the 25th International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP 2025)*, Zhengzhou, China, October 30-November 02, 2025.
+- Xinrui Yang and **Shaohuai Shi**, "SQ-DeAR: Sparsified and Quantized Gradient Compression for Distributed Training," *the 31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
+- Wenxiang Lin, Xinglin Pan, **Shaohuai Shi**, Xuan Wang, and Xiaowen Chu, "ScheInfer: Efficient Inference of Large Language Models with Task Scheduling on Moderate GPUs," *the 31st International European Conference on Parallel and Distributed Computing (Euro-Par)*, Dresden, Germany, August 25–29, 2025.
 - Wenxiang Lin, Xinglin Pan, **Shaohuai Shi**, Xuan Wang, Bo Li and Xiaowen Chu, "Mast: Efficient Training of Mixture-of-Experts Transformers with Task Pipelining and Ordering," *International Conference on Distributed Computing Systems (ICDCS) 2025*, Glasgow, Scotland, July 20–23, 2025. (**Distinguished Paper Award**, 3 out of 104 accepted papers)
 - Xinglin Pan, Rui Wang, Wenxiang Lin, **Shaohuai Shi**, and Xiaowen Chu, "Mitigating Contention in Stream Multiprocessors for Pipelined Mixture of Experts: An SM-Aware Scheduling Approach," *International Conference on Distributed Computing Systems (ICDCS) 2025*, Glasgow, Scotland, July 20–23, 2025.
 - Ne Wang, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Ruiting Zhou, and Bo Li, "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning," *IEEE International Conference on Computer Communications (INFOCOM) 2025*, London, United Kingdom, May 19–22, 2025.
@@ -26,8 +30,8 @@ Publications
 
 ## 2024
 - Ye Liu, Shan Chang, Denghui Li, **Shaohuai Shi**, and Bo Li, "RoPe-Door: Towards Robust and Persistent Backdoor Data Poisoning Attacks in Federated Learning," *IEEE Network*, October 25, 2024.
-- Jing Peng, Zihan Li, **Shaohuai Shi**, and Bo Li, "Sparse Gradient Communication with AlltoAll for Accelerating Distributed Deep Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
-- Zichen Tang, Junlin Huang, Rudan Yan, Yuxin Wang, Zhenheng Tang, **Shaohuai Shi**, Amelie Chi Zhou, Xiaowen Chu, "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning," *53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
+- Jing Peng, Zihan Li, **Shaohuai Shi**, and Bo Li, "Sparse Gradient Communication with AlltoAll for Accelerating Distributed Deep Learning," *the 53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
+- Zichen Tang, Junlin Huang, Rudan Yan, Yuxin Wang, Zhenheng Tang, **Shaohuai Shi**, Amelie Chi Zhou, Xiaowen Chu, "Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning," *the 53rd International Conference on Parallel Processing (ICPP) 2024*, Gotland, Sweden, August 12-15, 2024.
 - Yizhou Luo, Qiang Wang, **Shaohuai Shi**, Jiaxin Lai, Shuhan Qi, Jiajia Zhang, and Xuan Wang, "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing," *IEEE/ACM IWQoS 2024*, Guangzhou, China, June 19-21, 2024.
 - Zhenheng Tang, Yonggang Zhang, **Shaohuai Shi**, Xinmei Tian, Tongliang Liu, Bo Han, Xiaowen Chu, "FedImpro: Measuring and Improving Client Update in Federated Learning," *ICLR 2024*, Vienna, Austria, May 7-11, 2024.
 - **Shaohuai Shi**, Xinglin Pan, Qiang Wang, Chengjian Liu, Xiaozhe Ren, Zhongzhe Hu, Yu Yang, Bo Li, and Xiaowen Chu, "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling," *EuroSys 2024*, Athens, Greece, April 22-25, 2024.
