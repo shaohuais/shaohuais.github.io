@@ -17,6 +17,7 @@ My current research focus is distributed machine learning systems, aiming to bui
 
 News
 ======
+- 08/12/2025: Three papers (HierMoE, Compass, and MoPPTrain for accelerating training of MoE models, dense LLMs, and multi-modal LLMs, respectively) have been accepted by *INFOCOM 2026*. 
 - 08/11/2025: Two papers (PipeDiT for accelerating diffusion inference and SALR for accelerating fine-tuning) have been accepted by *AAAI 2026*. 
 - 22/07/2025: Our paper "Mast: Efficient Training of Mixture-of-Experts Transformers with Task Pipelining and Ordering" receives the **Distinguished Paper Award** (3 out of 104 accepted papers) at IEEE ICDCS 2025. Congrats to Wenxiang, Xinglin, and other co-authors.
 - 30/06/2025: I am honored with the Huawei Best Technology Collaboration Award (华为最佳技术合作奖）.
