@@ -14,6 +14,9 @@ author_profile: false
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
 ## 2026
+- Wenxiang Lin, Xinglin Pan, Lin Zhang, **Shaohuai Shi**, Xuan Wang, and Xiaowen Chu, "HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap," *IEEE International Conference on Computer Communications (INFOCOM) 2026*, Tokyo, Japan, May 18–21, 2026.
+- Yiming Yin, Qiang Wang, **Shaohuai Shi**, Xiaowen Chu, "Accelerating Multi-modal LLM Training with Adaptive Model Placement and Parallelization," *IEEE International Conference on Computer Communications (INFOCOM) 2026*, Tokyo, Japan, May 18–21, 2026.
+- Guangyu Xiang, Lin Zhang, Haoxuan Yu, Xinglin Pan, **Shaohuai Shi**, Xiaowen Chu, "Compass: Dissecting Communication and Computation Operators for Efficient LLM Training," *IEEE International Conference on Computer Communications (INFOCOM) 2026*, Tokyo, Japan, May 18–21, 2026.
 - Sijie Wang, Qiang Wang, and **Shaohuai Shi**, "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling," *the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)*, Singapore, January 20-27, 2026.
 - Longteng Zhang, Sen Wu, Shuai Hou, Zhengyu Qing, Zhuo Zheng, Danning Ke, Qihong Lin, Qiang Wang, **Shaohuai Shi**, and Xiaowen Chu, "SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models," *the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)*, Singapore, January 20-27, 2026.
 
