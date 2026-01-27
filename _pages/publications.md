@@ -14,6 +14,8 @@ author_profile: false
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
 ## 2026
+- Zhenheng Tang, Zichen Tang, Junlin Huang, Xinglin Pan, Rudan Yan, Yuxin Wang, Amelie Chi Zhou, **Shaohuai Shi**, Xiaowen Chu, and Bo Li, "DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization," *the Ninth Annual Conference on Machine Learning and Systems (MLSys 2026)*, Bellevue, WA, May 17–22, 2026.
+- Qi Li, Junpan Wu, Xiang Liu, Yuxin Wang, Zeyu Li, Zhenheng Tang, Yuhan Chen, **Shaohuai Shi**, Xiaowen Chu, "Reasoning Language Model Inference Serving Unveiled: An Empirical Study," *The Fourteenth International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 23–27, 2026.
 - Wenxiang Lin, Xinglin Pan, Lin Zhang, **Shaohuai Shi**, Xuan Wang, and Xiaowen Chu, "HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap," *IEEE International Conference on Computer Communications (INFOCOM) 2026*, Tokyo, Japan, May 18–21, 2026.
 - Yiming Yin, Qiang Wang, **Shaohuai Shi**, Xiaowen Chu, "Accelerating Multi-modal LLM Training with Adaptive Model Placement and Parallelization," *IEEE International Conference on Computer Communications (INFOCOM) 2026*, Tokyo, Japan, May 18–21, 2026.
 - Guangyu Xiang, Lin Zhang, Haoxuan Yu, Xinglin Pan, **Shaohuai Shi**, Xiaowen Chu, "Compass: Dissecting Communication and Computation Operators for Efficient LLM Training," *IEEE International Conference on Computer Communications (INFOCOM) 2026*, Tokyo, Japan, May 18–21, 2026.
