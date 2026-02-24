@@ -13,6 +13,7 @@ author_profile: false
 
 News
 ======
+- 24/02/2026: ExpertFlow has been accepted by *DAC 2026*. 
 - 27/01/2026: DreamDDP has been accepted by *MLSys 2026*. 
 - 08/12/2025: Three papers (HierMoE, Compass, and MoPPTrain for accelerating training of MoE models, dense LLMs, and multi-modal LLMs, respectively) have been accepted by *INFOCOM 2026*. 
 - 08/11/2025: Two papers (PipeDiT for accelerating diffusion inference and SALR for accelerating fine-tuning) have been accepted by *AAAI 2026*. 
