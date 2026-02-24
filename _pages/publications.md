@@ -14,7 +14,7 @@ author_profile: false
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
 ## 2026
-- Xin He, Shunkang Zhang, Kaijie Tang, **Shaohuai Shi**, Yuxin Wang, Zihao Zeng, Zhenheng Tang, Xiaowen Chu, Haiyan Yin, Ivor Tsang, Ong Yew Soon, "ExpertFlow: Efficient Mixture-of-Experts Inference via Predictive Expert Caching and Token Scheduling," *DAC 2026*, Long Beach, CA, July 26–29, 2026.
+- Xin He, Shunkang Zhang, Kaijie Tang, **Shaohuai Shi**, Yuxin Wang, Zihao Zeng, Zhenheng Tang, Xiaowen Chu, Haiyan Yin, Ivor Tsang, Ong Yew Soon, "ExpertFlow: Efficient Mixture-of-Experts Inference via Predictive Expert Caching and Token Scheduling," *the 63rd ACM/IEEE Chips to Systems Conference (DAC 2026)*, Long Beach, CA, July 26–29, 2026.
 - Zhenheng Tang, Zichen Tang, Junlin Huang, Xinglin Pan, Rudan Yan, Yuxin Wang, Amelie Chi Zhou, **Shaohuai Shi**, Xiaowen Chu, and Bo Li, "DreamDDP: Accelerating Data Parallel Distributed LLM Training with Layer-wise Scheduled Partial Synchronization," *the Ninth Annual Conference on Machine Learning and Systems (MLSys 2026)*, Bellevue, WA, May 17–22, 2026.
 - Qi Li, Junpan Wu, Xiang Liu, Yuxin Wang, Zeyu Li, Zhenheng Tang, Yuhan Chen, **Shaohuai Shi**, Xiaowen Chu, "Reasoning Language Model Inference Serving Unveiled: An Empirical Study," *the Fourteenth International Conference on Learning Representations (ICLR 2026)*, Rio de Janeiro, Brazil, April 23–27, 2026.
 - Wenxiang Lin, Xinglin Pan, Lin Zhang, **Shaohuai Shi**, Xuan Wang, and Xiaowen Chu, "HierMoE: Accelerating MoE Training with Hierarchical Token Deduplication and Expert Swap," *IEEE International Conference on Computer Communications (INFOCOM) 2026*, Tokyo, Japan, May 18–21, 2026.
