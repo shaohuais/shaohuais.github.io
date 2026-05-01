@@ -17,7 +17,7 @@ My current research focus is distributed machine learning systems, aiming to bui
 
 News
 ======
-- 01/05/2026: Two papers (AGoQ for accelerating LLM training with quantization and PAFT for mitigating errors in distributed training) have been *ICML 2026*. 
+- 01/05/2026: Two papers (AGoQ for accelerating LLM training with quantization and PAFT for mitigating errors in distributed training) have been accepted by *ICML 2026*. 
 - 24/02/2026: ExpertFlow has been accepted by *DAC 2026*. 
 - 27/01/2026: DreamDDP has been accepted by *MLSys 2026*. 
 - 08/12/2025: Three papers (HierMoE, Compass, and MoPPTrain for accelerating training of MoE models, dense LLMs, and multi-modal LLMs, respectively) have been accepted by *INFOCOM 2026*. 
