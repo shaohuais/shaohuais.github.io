@@ -11,12 +11,13 @@ redirect_from:
 
 About Me
 ======
-I am currently a Professor at the [School of Computer Science and Technology](http://cs.hitsz.edu.cn), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/). Prior to that, I was a Research Assistant Professor at the [Department of Computer Science & Engineering](https://www.cse.ust.hk/), [The Hong Kong University of Science and Technology](https://www.ust.hk). I obtained a Ph.D. degree in computer science at the [Department of Computer Science](https://www.comp.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk) in 2020, an M.Sc. degree in computer science at the [School of Computer Science and Technology](http://cs.hitsz.edu.cn), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn) in 2013, and a B.Eng. degree in software engineering at the School of Software Engineering, [South China University of Technology](https://www.scut.edu.cn) in 2010. 
+I am currently a Professor at the [School of Computer Science and Technology](http://cs.hitsz.edu.cn), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn/) (HITSZ). Prior to that, I was a Research Assistant Professor at the [Department of Computer Science & Engineering](https://www.cse.ust.hk/), [The Hong Kong University of Science and Technology](https://www.ust.hk) (HKUST). I obtained a Ph.D. degree in computer science at the [Department of Computer Science](https://www.comp.hkbu.edu.hk/), [Hong Kong Baptist University](https://www.hkbu.edu.hk) (HKBU) in 2020, an M.Sc. degree in computer science at the [School of Computer Science and Technology](http://cs.hitsz.edu.cn), [Harbin Institute of Technology, Shenzhen](https://www.hitsz.edu.cn) in 2013, and a B.Eng. degree in software engineering at the School of Software Engineering, [South China University of Technology](https://www.scut.edu.cn) in 2010. 
 
 My current research focus is distributed machine learning systems, aiming to build efficient systems of training and inference of deep neural networks.
 
 News
 ======
+- 01/05/2026: Two papers (AGoQ for accelerating LLM training with quantization and PAFT for mitigating errors in distributed training) have been *ICML 2026*. 
 - 24/02/2026: ExpertFlow has been accepted by *DAC 2026*. 
 - 27/01/2026: DreamDDP has been accepted by *MLSys 2026*. 
 - 08/12/2025: Three papers (HierMoE, Compass, and MoPPTrain for accelerating training of MoE models, dense LLMs, and multi-modal LLMs, respectively) have been accepted by *INFOCOM 2026*. 
@@ -41,8 +42,8 @@ Work Experience
 - 09/2022-09/2023: Assistant Professor, HITSZ.
 - 09/2020-08/2022: Research Assistant Professor, HKUST.
 - 04/2019-05/2020: Deep Learning Intern, NVIDIA. 
-- 02/2014-03/2016: Senior Research Assistant, Hong Kong Baptist University. 
-- 02/2013-02/2014: Research Assistant, Hong Kong Baptist University.
+- 02/2014-03/2016: Senior Research Assistant, HKBU.
+- 02/2013-02/2014: Research Assistant, HKBU.
 
 Research Interests ([Publications]({{ site.url }}/publications/index.html))
 ======
@@ -54,13 +55,10 @@ Research Interests ([Publications]({{ site.url }}/publications/index.html))
 Teaching
 ======
 - Instructor at HITSZ
-    - 2025 Spring Semester: Computer Systems (CSAPP) 
-    - 2024 Fall Semester: Parallel Processing and Computer Architecture 
-    - 2024 Fall Semester: Computer Architecture 
-    - 2024 Spring Semester: Computer Systems (CSAPP) 
-    - 2023 Fall Semester: Parallel Processing and Computer Architecture 
-    - 2023 Fall Semester: Computer Architecture 
-    - 2023 Spring Semester: Computer Systems (CSAPP) 
+    - 2025,2026 Spring Semester: Computer Systems (CSAPP) 
+    - 2023,2024,2025 Fall Semester: Parallel Processing and Computer Architecture 
+    - 2023,2024,2025 Fall Semester: Computer Architecture 
+    - 2023,2024 Spring Semester: Computer Systems (CSAPP) 
 - Instructor at HKUST
     - 2022 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
     - 2021 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
@@ -80,8 +78,8 @@ Professional Activities
     - Poster Co-chair of [IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)](https://iwqos2024.ieee-iwqos.org/).
     - Co-chair of 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
 - Program Committee Member for Conferences
-    - IWQoS '25, KDD '25, ICDCS '25
-    - ICLR '24, AAAI '24, NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
+    - IWQoS '26, ICDCS '26, ICML '26, IJCAI '26
+    - IWQoS '25, KDD '25, ICDCS '25, ICLR '24, AAAI '24, NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
 - Reviewer for Journals
     - ACM Computing Surveys (CSUR)
     - IEEE Network Magazine 
