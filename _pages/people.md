@@ -7,8 +7,8 @@ author_profile: false
 
 {% include base_path %}
 
-People
-======
+## Postdoc Researcher
+- Yixiong Yang (2025.08 - ) 
 
 ## PhD Students
 - Wenxiang Lin (2024.03 - )
@@ -31,6 +31,6 @@ People
 - Tianyu He (incoming, 2026.09 - )
 
 ## Alumni
-- Yanxin Dong (2023.09-2026.06, first job at ByteDance)
-- Weihong Yu (2023.09-2026.06, first job at ByteDance)
-- Haoxuan Yu (2023.09-2026.06, first job at Xiaomi)
+- Yanxin Dong (2023.09-2026.06, first employment at ByteDance)
+- Weihong Yu (2023.09-2026.06, first employment at ByteDance)
+- Haoxuan Yu (2023.09-2026.06, first employment at Xiaomi)
