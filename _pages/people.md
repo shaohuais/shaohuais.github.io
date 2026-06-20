@@ -33,4 +33,4 @@ author_profile: false
 ## Alumni
 - Yanxin Dong (MEng, 2023.09-2026.06, first employment at ByteDance)
 - Weihong Yu (MEng, 2023.09-2026.06, first employment at ByteDance)
-- Haoxuan Yu (MEng, M2023.09-2026.06, first employment at Xiaomi)
+- Haoxuan Yu (MEng, 2023.09-2026.06, first employment at Xiaomi)
