@@ -158,7 +158,6 @@ markdown: kramdown
 theme: minima
 highlighter: rouge
 lsi: false
-source: shaohuais.github.io
 excerpt_separator: "\n\n"
 incremental: false
 gist:
