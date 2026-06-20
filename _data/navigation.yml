@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: /publications/index.html
 
+  - title: "People"
+    url: /people/index.html
+
     #- title: "Talks"
     #url: talks
 

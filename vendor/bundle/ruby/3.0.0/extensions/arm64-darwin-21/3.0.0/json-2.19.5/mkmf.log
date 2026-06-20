@@ -1,0 +1,229 @@
+have_func: checking for rb_enc_interned_str() in ruby/encoding.h... -------------------- yes
+
+"clang -fdeclspec -o conftest -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe conftest.c  -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib  -fstack-protector-strong -L/usr/local/lib  -m64   -lruby.3.0   "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+"clang -fdeclspec -o conftest -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe conftest.c  -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib  -fstack-protector-strong -L/usr/local/lib  -m64   -lruby.3.0   "
+conftest.c:16:43: warning: cast from 'VALUE (*)(const char *, long, rb_encoding *)' (aka 'unsigned long (*)(const char *, long, const struct OnigEncodingTypeST *)') to 'void ((*)())' converts to incompatible function type [-Wcast-function-type-mismatch]
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_enc_interned_str; return !p; }
+      |                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby/encoding.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_enc_interned_str; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_str_to_interned_str() in ruby.h... -------------------- yes
+
+"clang -fdeclspec -o conftest -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe conftest.c  -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib  -fstack-protector-strong -L/usr/local/lib  -m64   -lruby.3.0   "
+conftest.c:16:43: warning: cast from 'VALUE (*)(VALUE)' (aka 'unsigned long (*)(unsigned long)') to 'void ((*)())' converts to incompatible function type [-Wcast-function-type-mismatch]
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_str_to_interned_str; return !p; }
+      |                                           ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 warning generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_str_to_interned_str; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_hash_new_capa() in ruby.h... -------------------- no
+
+"clang -fdeclspec -o conftest -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe conftest.c  -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib  -fstack-protector-strong -L/usr/local/lib  -m64   -lruby.3.0   "
+conftest.c:16:57: error: use of undeclared identifier 'rb_hash_new_capa'
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_hash_new_capa; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_hash_new_capa; return !p; }
+/* end */
+
+"clang -fdeclspec -o conftest -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe conftest.c  -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib  -fstack-protector-strong -L/usr/local/lib  -m64   -lruby.3.0   "
+Undefined symbols for architecture arm64:
+  "_rb_hash_new_capa", referenced from:
+      _t in conftest-a8dc9f.o
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void rb_hash_new_capa();
+17: int t(void) { rb_hash_new_capa(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_hash_bulk_insert() in ruby.h... -------------------- yes
+
+"clang -fdeclspec -o conftest -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe conftest.c  -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib -L. -L/Users/shshi/.rbenv/versions/3.0.5/lib  -fstack-protector-strong -L/usr/local/lib  -m64   -lruby.3.0   "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_hash_bulk_insert; return !p; }
+/* end */
+
+--------------------
+
+have_const: checking for RUBY_TYPED_EMBEDDABLE in ruby.h... -------------------- no
+
+"clang -fdeclspec -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe -m64  -c conftest.c"
+conftest.c:7:34: error: use of undeclared identifier 'RUBY_TYPED_EMBEDDABLE'
+    7 | conftest_type conftestval = (int)RUBY_TYPED_EMBEDDABLE;
+      |                                  ^
+1 error generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby.h>
+4: 
+5: /*top*/
+6: typedef int conftest_type;
+7: conftest_type conftestval = (int)RUBY_TYPED_EMBEDDABLE;
+/* end */
+
+--------------------
+
+block in append_cflags: checking for whether -std=c99 is accepted as CFLAGS... -------------------- yes
+
+"clang -fdeclspec -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe -m64 -std=c99 -Werror -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+--------------------
+
+have_header: checking for arm_neon.h... -------------------- yes
+
+"clang -E -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe -std=c99  conftest.c -o conftest.i"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <arm_neon.h>
+/* end */
+
+--------------------
+
+"clang -fdeclspec -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe -std=c99 -m64 -Werror=implicit-function-declaration -c conftest.c"
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <arm_neon.h>
+ 4: 
+ 5: int main(int argc, char **argv) {
+ 6:   uint8x16_t test = vdupq_n_u8(32);
+ 7: 
+ 8:   if (argc > 100000) printf("%p", &test);
+ 9:   return 0;
+10: }
+/* end */
+
+have_header: checking for cpuid.h... -------------------- no
+
+"clang -E -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/arm64-darwin21 -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0/ruby/backward -I/Users/shshi/.rbenv/versions/3.0.5/include/ruby-3.0.0 -I. -I/Users/shshi/.rbenv/versions/3.0.5/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -O3 -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wmissing-noreturn -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -fno-common -pipe -std=c99  conftest.c -o conftest.i"
+In file included from conftest.c:3:
+/Library/Developer/CommandLineTools/usr/lib/clang/17/include/cpuid.h:14:2: error: this header is for x86 only
+   14 | #error this header is for x86 only
+      |  ^
+1 error generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <cpuid.h>
+/* end */
+
+--------------------
+

@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-title: "Welcome to Shaohuai's Home Page"
+title: "Welcome to Shaohuai's Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,6 +17,7 @@ My current research focus is distributed machine learning systems, aiming to bui
 
 News
 ======
+- 07/06/2026: Our paper "Efficient Mixture-of-Experts Training with Pipelining Optimization" has been accepted by *IEEE Transactions on Computers (TC)*.
 - 12/05/2026: ZipCCL has been accepted by *SIGCOMM 2026*. Congrats to Wenxiang and all other co-authors.
 - 01/05/2026: Two papers (AGoQ for accelerating LLM training with quantization and PAFT for mitigating errors in distributed training) have been accepted by *ICML 2026*. 
 - 24/02/2026: ExpertFlow has been accepted by *DAC 2026*. 
@@ -27,14 +28,6 @@ News
 - 30/06/2025: I am honored with the Huawei Best Technology Collaboration Award (华为最佳技术合作奖）.
 - 30/04/2025: Two papers (ScheInfer and SQ-DeAR) have been accepted by *Euro-Par 2025*. 
 - 27/03/2025: Two papers have been accepted by *ICDCS 2025*. 
-- 06/12/2024: Our paper "SP-MoE: Expediting Mixture-of-Experts Training with Optimized Pipelining Planning" has been accepted by *INFOCOM 2025*. 
-- 03/10/2024: Our paper "FSMoE: A Flexible and Scalable Training System for Sparse Mixture-of-Experts Models" has been accepted by *ASPLOS 2025*. 
-- 21/09/2024: I am awarded as one of [Outstanding Contributors to Ascend Research Innovation](https://mp.weixin.qq.com/s/ocCWaCDPmQ4vjoOFqra3OQ). 
-- 16/09/2024: I have been ranked [2024 World’s Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7) released by Stanford University.
-- 11/06/2024: Two papers have been accepted by *ICPP 2024*. 
-- 15/04/2024: Our paper "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" has been accepted by *IEEE/ACM IWQoS 2024*. 
-- 16/01/2024: Our paper "FedImpro: Measuring and Improving Client Update in Federated Learning" has been accepted by *ICLR 2024*. 
-- 10/01/2024: Our paper "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling" has been accepted by *EuroSys 2024*. 
 - [More...]({{ site.url }}/news/index.html)
 
 Work Experience 
@@ -79,7 +72,7 @@ Professional Activities
     - Poster Co-chair of [IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)](https://iwqos2024.ieee-iwqos.org/).
     - Co-chair of 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
 - Program Committee Member for Conferences
-    - IWQoS '26, ICDCS '26, ICML '26, IJCAI '26
+    - ICDCS '26, ICML '26, IJCAI '26, ACM MM '26, NeurIPS '26
     - IWQoS '25, KDD '25, ICDCS '25, ICLR '24, AAAI '24, NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
 - Reviewer for Journals
     - ACM Computing Surveys (CSUR)
@@ -92,8 +85,6 @@ Professional Activities
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - IEEE Journal on Selected Areas in Communications (JSAC)
     - Journal of Parallel and Distributed Computing (JPDC)
-    - IEEE Acess 
-    - MDPI Sensors
 
 Awards and Prizes
 ======

@@ -14,6 +14,7 @@ author_profile: false
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
 ## 2026
+- Ne Wang, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Ruiting Zhou, Bo Li, "Efficient Mixture-of-Experts Training with Pipelining Optimization," *IEEE Transactions on Computers (TC)*, June, 2026. 
 - Wenxiang Lin, Xinglin Pan, Ruibo Fan, **Shaohuai Shi**, Xiaowen Chu, "ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training," *the 40th ACM Special Interest Group on Data Communication (SIGCOMM 2026)*, Denver, Colorado, USA, August 17-21, 2026. 
 - Wenxiang Lin, Juntao Huang, Luhan Zhang, Laiyi Li, Xiang Bao, Mengyang Zhang, Bing Wang, **Shaohuai Shi**, "AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs," *the Forty-Third International Conference on Machine Learning (ICML 2026)*, Seoul, South Korea, July 6-11, 2026. 
 - Zhenheng Tang, Junlin Huang, Zichen Tang, Xueze Kang, Yuxin Wang, Peijie Dong, **Shaohuai Shi**, Xiaowen Chu, Bo Li, "Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training," *the Forty-Third International Conference on Machine Learning (ICML 2026)*, Seoul, South Korea, July 6-11, 2026.
