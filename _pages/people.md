@@ -18,7 +18,7 @@ author_profile: false
 - Ming Li (2026.03 - )
 - Liang Li (incoming, 2026.09 - )
 
-## MSc Students
+## MSc/MEng Students
 - Kaijie Tang (2024.09 - )
 - Seng Wu (2024.09 - )
 - Zhanhong Zheng (2024.09 - )
@@ -31,6 +31,6 @@ author_profile: false
 - Tianyu He (incoming, 2026.09 - )
 
 ## Alumni
-- Yanxin Dong (2023.09-2026.06, first employment at ByteDance)
-- Weihong Yu (2023.09-2026.06, first employment at ByteDance)
-- Haoxuan Yu (2023.09-2026.06, first employment at Xiaomi)
+- Yanxin Dong (MEng, 2023.09-2026.06, first employment at ByteDance)
+- Weihong Yu (MEng, 2023.09-2026.06, first employment at ByteDance)
+- Haoxuan Yu (MEng, M2023.09-2026.06, first employment at Xiaomi)
