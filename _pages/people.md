@@ -16,7 +16,7 @@ author_profile: false
 - Zhiqiang Tan (2025.09 - )
 - Ke Chai (2025.09 - )
 - Ming Li (2026.03 - )
-- Liang Li (incoming, 2026.09 - )
+- Liang Li (2026.09 - )
 
 ## MSc/MEng Students
 - Kaijie Tang (2024.09 - )
@@ -26,9 +26,9 @@ author_profile: false
 - Luhan Zhang (2025.09 - )
 - Xinrui Yang (2025.09 - )
 - Xiang Fan (2025.09 - )
-- Yingjie Shuai (incoming, 2026.09 - )
-- Junda Chen (incoming, 2026.09 - )
-- Tianyu He (incoming, 2026.09 - )
+- Yingjie Shuai (2026.09 - )
+- Junda Chen (2026.09 - )
+- Tianyu He (2026.09 - )
 
 ## Alumni
 - Yanxin Dong (MEng, 2023.09-2026.06, first employment at ByteDance)
