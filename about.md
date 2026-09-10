@@ -17,17 +17,12 @@ My current research focus is distributed machine learning systems, aiming to bui
 
 News
 ======
+- 10/09/2026: Our paper "Accelerating Irregular Matrix Multiplications on ARM Architectures with Reinforcement Learning" has been accepted by *SIGMETRICS 2027*.
 - 07/06/2026: Our paper "Efficient Mixture-of-Experts Training with Pipelining Optimization" has been accepted by *IEEE Transactions on Computers (TC)*.
 - 12/05/2026: ZipCCL has been accepted by *SIGCOMM 2026*. Congrats to Wenxiang and all other co-authors.
 - 01/05/2026: Two papers (AGoQ for accelerating LLM training with quantization and PAFT for mitigating errors in distributed training) have been accepted by *ICML 2026*. 
 - 24/02/2026: ExpertFlow has been accepted by *DAC 2026*. 
 - 27/01/2026: DreamDDP has been accepted by *MLSys 2026*. 
-- 08/12/2025: Three papers (HierMoE, Compass, and MoPPTrain for accelerating training of MoE models, dense LLMs, and multi-modal LLMs, respectively) have been accepted by *INFOCOM 2026*. 
-- 08/11/2025: Two papers (PipeDiT for accelerating diffusion inference and SALR for accelerating fine-tuning) have been accepted by *AAAI 2026*. 
-- 22/07/2025: Our paper "Mast: Efficient Training of Mixture-of-Experts Transformers with Task Pipelining and Ordering" receives the **Distinguished Paper Award** (3 out of 104 accepted papers) at IEEE ICDCS 2025. Congrats to Wenxiang, Xinglin, and other co-authors.
-- 30/06/2025: I am honored with the Huawei Best Technology Collaboration Award (华为最佳技术合作奖）.
-- 30/04/2025: Two papers (ScheInfer and SQ-DeAR) have been accepted by *Euro-Par 2025*. 
-- 27/03/2025: Two papers have been accepted by *ICDCS 2025*. 
 - [More...]({{ site.url }}/news/index.html)
 
 Work Experience 
@@ -49,10 +44,10 @@ Research Interests ([Publications]({{ site.url }}/publications/index.html))
 Teaching
 ======
 - Instructor at HITSZ
-    - 2025,2026 Spring Semester: Computer Systems (CSAPP) 
-    - 2023,2024,2025 Fall Semester: Parallel Processing and Computer Architecture 
-    - 2023,2024,2025 Fall Semester: Computer Architecture 
-    - 2023,2024 Spring Semester: Computer Systems (CSAPP) 
+    - 2025, 2026 Spring Semester: Computer Systems (CSAPP) 
+    - 2023, 2024, 2025, 2026 Fall Semester: Parallel Processing and Computer Architecture 
+    - 2023, 2024, 2025, 2026 Fall Semester: Computer Architecture 
+    - 2023, 2024 Spring Semester: Computer Systems (CSAPP) 
 - Instructor at HKUST
     - 2022 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
     - 2021 Spring Semester: [COMP4901Q](https://course.cse.ust.hk/comp4901q/) (High Performace Computing)
@@ -72,7 +67,7 @@ Professional Activities
     - Poster Co-chair of [IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)](https://iwqos2024.ieee-iwqos.org/).
     - Co-chair of 5th International Workshop on Embedded and Mobile Deep Learning, co-located with *ACM MobiSys 2021*, [https://emdl21.github.io/](https://emdl21.github.io/).
 - Program Committee Member for Conferences
-    - ICDCS '26, ICML '26, IJCAI '26, ACM MM '26, NeurIPS '26
+    - MLSys '27, INFOCOM '27, AAAI '27, ICDCS '26, ICML '26, IJCAI '26, ACM MM '26, NeurIPS '26
     - IWQoS '25, KDD '25, ICDCS '25, ICLR '24, AAAI '24, NeurIPS '23, IJCAI '23, AAAI '23, HiPC '22, ICML '22, IJCAI '22, AAAI '22, DSS '20, ICC Workshop '21, IJCAI '21, ICDCS '21, HiPC '21, ICPADS '21, HPCC '21, DSS '21
 - Reviewer for Journals
     - ACM Computing Surveys (CSUR)
