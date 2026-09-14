@@ -14,6 +14,9 @@ author_profile: false
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
 ## 2026
+- Hucheng Liu, **Shaohuai Shi**, Zoe Lin Jiang, Xuan Wang, "Accelerating Irregular Matrix Multiplications on ARM Architectures with Reinforcement Learning," *ACM SIGMETRICS 2027*, Georgia, USA, June 7-11, 2027.
+- Jiaqi Li, **Shaohuai Shi**, Jing Peng, Tiejun Wang, Jiqing Gu, Xi Wu, "Low-bit and Sparsified Gradient Communication for Accelerating Distributed Deep Learning with Convergence Guarantees," *the 55th International Conference on Parallel Processing (ICPP)*, Singapore, September 28-October 1, 2026.
+- Haoliang Zhao, Haiqian Niu, Shan Chang, **Shaohuai Shi**, Minghui Dai, Hongzi Zhu, Bo Li, "Nunchaku: Promoting Vertical Federated Learning by Semi-aligned Samples," *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, September 2026.
 - Ne Wang, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Ruiting Zhou, Bo Li, "Efficient Mixture-of-Experts Training with Pipelining Optimization," *IEEE Transactions on Computers (TC)*, June, 2026. 
 - Wenxiang Lin, Xinglin Pan, Ruibo Fan, **Shaohuai Shi**, Xiaowen Chu, "ZipCCL: Efficient Lossless Data Compression of Communication Collectives for Accelerating LLM Training," *the 40th ACM Special Interest Group on Data Communication (SIGCOMM 2026)*, Denver, Colorado, USA, August 17-21, 2026. 
 - Wenxiang Lin, Juntao Huang, Luhan Zhang, Laiyi Li, Xiang Bao, Mengyang Zhang, Bing Wang, **Shaohuai Shi**, "AGoQ: Activation and Gradient Quantization for Memory-Efficient Distributed Training of LLMs," *the Forty-Third International Conference on Machine Learning (ICML 2026)*, Seoul, South Korea, July 6-11, 2026. 
