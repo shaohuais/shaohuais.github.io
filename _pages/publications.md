@@ -13,8 +13,10 @@ author_profile: false
 
 Publications ([Google Scholar](https://scholar.google.com/citations?user=Wr4B6fQAAAAJ&hl=en))
 ======
-## 2026
+## 2027
 - Hucheng Liu, **Shaohuai Shi**, Zoe Lin Jiang, Xuan Wang, "Accelerating Irregular Matrix Multiplications on ARM Architectures with Reinforcement Learning," *ACM SIGMETRICS 2027*, Georgia, USA, June 7-11, 2027.
+
+## 2026
 - Jiaqi Li, **Shaohuai Shi**, Jing Peng, Tiejun Wang, Jiqing Gu, Xi Wu, "Low-bit and Sparsified Gradient Communication for Accelerating Distributed Deep Learning with Convergence Guarantees," *the 55th International Conference on Parallel Processing (ICPP)*, Singapore, September 28-October 1, 2026.
 - Haoliang Zhao, Haiqian Niu, Shan Chang, **Shaohuai Shi**, Minghui Dai, Hongzi Zhu, Bo Li, "Nunchaku: Promoting Vertical Federated Learning by Semi-aligned Samples," *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, September 2026.
 - Ne Wang, Wenxiang Lin, Lin Zhang, **Shaohuai Shi**, Ruiting Zhou, Bo Li, "Efficient Mixture-of-Experts Training with Pipelining Optimization," *IEEE Transactions on Computers (TC)*, June, 2026. 
