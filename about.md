@@ -17,6 +17,7 @@ My current research focus is distributed machine learning systems, aiming to bui
 
 News
 ======
+- 25/09/2026: Three papers have been accepted by *NeurIPS 2026*.
 - 10/09/2026: Our paper "Accelerating Irregular Matrix Multiplications on ARM Architectures with Reinforcement Learning" has been accepted by *SIGMETRICS 2027*.
 - 07/06/2026: Our paper "Efficient Mixture-of-Experts Training with Pipelining Optimization" has been accepted by *IEEE Transactions on Computers (TC)*.
 - 12/05/2026: ZipCCL has been accepted by *SIGCOMM 2026*. Congrats to Wenxiang and all other co-authors.

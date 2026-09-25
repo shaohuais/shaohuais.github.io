@@ -13,7 +13,8 @@ author_profile: false
 
 News
 ======
-- 07/09/2026: Our paper "Accelerating Irregular Matrix Multiplications on ARM Architectures with Reinforcement Learning" has been accepted by *SIGMETRICS 2027*.
+- 25/09/2026: Three papers have been accepted by *NeurIPS 2026*.
+- 10/09/2026: Our paper "Accelerating Irregular Matrix Multiplications on ARM Architectures with Reinforcement Learning" has been accepted by *SIGMETRICS 2027*.
 - 07/06/2026: Our paper "Efficient Mixture-of-Experts Training with Pipelining Optimization" has been accepted by *IEEE Transactions on Computers (TC)*.
 - 12/05/2026: ZipCCL has been accepted by *SIGCOMM 2026*. Congrats to Wenxiang and all other co-authors.
 - 01/05/2026: Two papers (AGoQ for accelerating LLM training with quantization and PAFT for mitigating errors in distributed training) have been accepted by *ICML 2026*. 
